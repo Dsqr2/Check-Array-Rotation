@@ -10,7 +10,9 @@ Example:
 Sample Input:
 
 1
+
 6
+
 5 6 1 2 3 4
 
 Sample Output :
